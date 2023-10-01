@@ -1,11 +1,8 @@
-# SDL2 + ImGui template
+# cpp-patterns
 
-This a one click setup template to work with SDL2 and ImGui made with premake!
+This project just aims to collect my own implementation of the most famous programming patterns for games
 
-# Cloning
+## dependecies
 
-``git clone --recursive https://github.com/ZaroDev/SDL2ImGuiTemplate.git``
-
-# Building
-
-Open the scripts on ``scripts/genprojXXXX.bat`` to generate a Visual Studio solution
+- SDL  
+- ImGui
